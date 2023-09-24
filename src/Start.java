@@ -32,7 +32,7 @@ public class Start {
 				if (result) {
 					System.out.println("Student inserted Successfully...");
 				} else {
-					System.out.println("Something went Wrong..");
+					System.out.println("Something went Wrong...");
 				}
 			} else if (choice == 2) {
 				// delete Student
